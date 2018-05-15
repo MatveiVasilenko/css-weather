@@ -1,0 +1,98 @@
+* {
+	box-sizing: border-box;
+}
+html {
+	height: 100%;
+}
+body {
+	min-height: 100%;
+	color: #fff;
+	background: #3399cc;
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-size: 14px;
+	border: 15px solid #2b81ac;
+	margin: 0;
+	height: 100%;	
+}
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+.headstyle {
+	font-size: 20px;
+}
+.footerstyle  {
+	font-size: 16px;
+}
+ul:hover li,
+ul:focus li S{
+	opacity: .5;
+	transition: all 1s;
+}
+ul li:hover,
+ul li:focus {
+	opacity: 1;	
+	transition: all 1s;
+}
+
+.el {
+	font-size: 0;
+	padding: 0;
+	border: 2px solid #fff;
+}
+.el li {
+	display: inline-block;
+	font-size: 20px;
+	text-align: center;
+	border: 2px solid #fff;
+	box-sizing: border-box;
+	padding: 15px;
+}
+.el li p {
+	margin: 0 auto;
+	padding: 5px;
+}
+.el1 {
+	width: 50%;
+	background: #3399cc;
+}
+.el2 {
+	width: 25%;
+	background: #33cccc;
+}
+.el3 {
+	width: 25%;
+	background: #996699;
+}
+.el4 {
+	width: 25%;
+	background: #c24747;
+}
+.el5 {
+	width: 25%;
+	background: #e2674a;
+}
+.el6 {
+	width: 25%;
+	background: #ffcc66;
+}
+.el7 {
+	width: 25%;
+	background: #99cc99;
+}
+.el8 {
+	width: 25%;
+	background: #669999;
+}
+.el9 {
+	width: 50%;
+	background: #cc6699;
+}
+.el10 {
+	width: 25%;
+	background: #339966;
+}
+.el11 {
+	width: 100%;
+	background: #666699;
+}
